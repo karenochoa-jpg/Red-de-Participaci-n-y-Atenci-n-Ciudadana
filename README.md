@@ -47,11 +47,16 @@ SOCIAP es un software enfocado en centralizar, canalizar y agilizar los trámite
 
 ## 6 Especificaciones de requisitos
 
-** Requisitos funcionales**
+**Requisitos funcionales**
+
 **1. registro de Solicitudes**| Permitir a los ciudadanos registrar peticiones, quejas o reclamos adjuntando datos clave. 
+
 **2. asignación de Casos** | Derivar automáticamente cada solicitud al área competente para su gestión. 
+
 **3. trazabilidad en Tiempo Real** | Permitir la consulta del estado de la solicitud mediante un número de radicado o código único. 
+
 **4. notificaciones** | Enviar alertas automáticas por correo electrónico sobre actualizaciones en el caso.
+
 **5. reportes de Gestión** | Generar informes analíticos periódicos sobre el volumen de atención y tiempos de respuesta.
 
 **Requisitos No Funcionales**
