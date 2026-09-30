@@ -40,6 +40,7 @@ SOCIAP es un software enfocado en centralizar, canalizar y agilizar los trámite
 3.  Implementar un sistema de seguimiento transparente donde los usuarios puedan verificar el estado de su trámite en tiempo real
 
 **5.3 Beneficios**
+
 ***Para los Usuarios*** Proceso accesible, transparente y con visibilidad completa del estado de sus trámites. 
 ***Para la Organización*** Automatización de flujos de trabajo, control centralizado de datos y generación de métricas sobre la eficiencia operativa.
 
