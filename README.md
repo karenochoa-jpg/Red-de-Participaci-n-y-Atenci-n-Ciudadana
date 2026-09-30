@@ -71,7 +71,28 @@ SOCIAP es un software enfocado en centralizar, canalizar y agilizar los trámite
 
 ## 7 Plan de proyecto 
 
-### 7.1 Cronograma de Actividades (Diagrama de Gantt)
+### 7. Presupuesto del Proyecto (Práctica de Formación)
+
+El presupuesto de este proyecto no se liquida mediante transferencias monetarias directas, sino en **tiempo de práctica de formación profesional**, valorado con base en el **Salario Mínimo Legal Vigente (SMLV)**.
+
+#### Cálculo de Horas Invertidas
+* **Número de integrantes:** 4 estudiantes.
+* **Horas por integrante:** 50 horas de práctica.
+* **Total horas del proyecto:** 4 x 50 = **200 Horas Total**.
+* **Valor Hora Práctica (SMLV base 210 hrs/mes):** $1.750.905 / 210 = **$8.338 COP / hora**.
+
+#### Tabla de Valoración Financiera
+
+| Fase / Actividad | Horas Invertidas | Valor Hora Práctica (SMLV) | Subtotal Equivalente |
+| :--- | :---: | :---: | :---: |
+| Levantamiento y Análisis de Requisitos | 30 h | $8.338 COP | $250.140 COP |
+| Diseño de Sistema e Interfaz (UI/UX) | 40 h | $8.338 COP | $333.520 COP |
+| Desarrollo e Integración del Software | 90 h | $8.338 COP | $750.420 COP |
+| Pruebas (QA), Seguridad y Documentación | 40 h | $8.338 COP | $333.520 COP |
+| **TOTAL INVERSIÓN (Práctica Profesional)** | **200 h** | **Valor Práctica** | **$1.667.600 COP** |
+
+
+### 7.2 Cronograma de Actividades (Diagrama de Gantt)
 
 ```mermaid
 gantt
@@ -89,3 +110,6 @@ gantt
     section 4. Cierre y Pruebas
     Pruebas QA y Seguridad       :d1, after c2, 6d
     Documentación y Despliegue   :d2, after d1, 5d
+
+
+
