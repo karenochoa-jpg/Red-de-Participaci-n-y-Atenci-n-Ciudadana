@@ -71,6 +71,8 @@ SOCIAP es un software enfocado en centralizar, canalizar y agilizar los trámite
 
 ## 7 Plan de proyecto 
 
+### 7.1 Cronograma de Actividades (Diagrama de Gantt)
+
 ```mermaid
 gantt
     title Cronograma de Trabajo - Proyecto SOCIAP
@@ -79,7 +81,7 @@ gantt
     Establecimiento de Requisitos  :a1, 2026-09-30, 7d
     Análisis de Arquitectura      :a2, after a1, 5d
     section 2. Diseño
-    Diseño de Interfaz           :b1, after a2, 7d
+    Diseño de Interfaz (UI/UX)    :b1, after a2, 7d
     Modelo de Base de Datos      :b2, after a2, 5d
     section 3. Desarrollo
     Módulo de Radicación          :c1, after b1, 10d
@@ -87,5 +89,3 @@ gantt
     section 4. Cierre y Pruebas
     Pruebas QA y Seguridad       :d1, after c2, 6d
     Documentación y Despliegue   :d2, after d1, 5d
-```
-
