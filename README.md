@@ -23,15 +23,15 @@ Plataforma web para la gestión de solicitudes, peticiones y quejas ciudadanas
 **Descripción:** El presente proyecto implementa una aplicación en consola desarrollada en Python orientada a automatizar, validar y procesar eficientemente las Peticiones, Quejas, Reclamos y Sugerencias (PQRS). Su propósito principal es optimizar los tiempos de respuesta legales, garantizar la trazabilidad total de los requerimientos de los usuarios y administrar de forma segura los datos de un hospital veterinario o red institucional.
 **Imagen del Proyecto** (Imagen proyecto)
 
-##4. Licencia  del software
+## 4. Licencia  del software
 Este proyecto está dedicado al dominio público mediante la licencia **Creative Commons CC0 1.0 Universal (CC0 1.0) Dedicación de Dominio Público**
 
-### 5. reporte de visión 
+## 5. Reporte de visión 
 
-***5.1 Descripción General***
+### 5.1 Descripción General 
 SOCIAP es un software enfocado en centralizar, canalizar y agilizar los trámites, peticiones, quejas y solicitudes de la ciudadanía. La solución busca optimizar los procesos de atención pública, garantizando el cumplimiento de los tiempos de respuesta legales y la protección de datos personales.
 
-**5.2 Objetivos**
+### 5.2 Objetivos
 ***Objetivos Generales*** Desarrollar una plataforma web integral que optimice la atención trazabilidad y gestión de solicitudes ciudadanas
 
 ***Objetivos Específicos***
