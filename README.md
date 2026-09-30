@@ -1,4 +1,4 @@
-# SOCIAP-SISTENA-DE-ORIENTACIÓN-CIUDADANA-/ATENCIÓN-A-PERSONAS
+# SOCIAP-SISTEMA-DE-ORIENTACIÓN-CIUDADANA-/ATENCIÓN-A-PERSONAS
 Plataforma web para la gestión de solicitudes, peticiones y quejas ciudadanas
 ## 1 Integrantes:
 **Karen Darian Ochoa Pertuz**- *Ingenieria Industrial*
