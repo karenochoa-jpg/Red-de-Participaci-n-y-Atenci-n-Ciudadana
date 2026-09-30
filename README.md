@@ -2,8 +2,11 @@
 Plataforma web para la gestión de solicitudes, peticiones y quejas ciudadanas
 ## 1 Integrantes:
 **Karen Darian Ochoa Pertuz**- *Ingenieria Industrial*
+
 **Kelly Ester Martínez Cuadrado**-*Ingenieria Industrial*
+
 **Angela Maria Calle Loaiza**- *Ingeniería Industrial*
+
 **Leidy Camila Torres Henao**- *Ingenieria*
 
 ## 2 Vínculos académicos y descripción 
