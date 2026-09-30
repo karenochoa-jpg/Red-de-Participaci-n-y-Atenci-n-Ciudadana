@@ -71,7 +71,7 @@ SOCIAP es un software enfocado en centralizar, canalizar y agilizar los trámite
 
 ## 7 Plan de proyecto 
 
-### 7. Presupuesto del Proyecto (Práctica de Formación)
+### 7.1 Presupuesto del Proyecto (Práctica de Formación)
 
 El presupuesto de este proyecto no se liquida mediante transferencias monetarias directas, sino en **tiempo de práctica de formación profesional**, valorado con base en el **Salario Mínimo Legal Vigente (SMLV)**.
 
