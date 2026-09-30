@@ -11,13 +11,3 @@ Plataforma web para la gestión de solicitudes, peticiones y quejas ciudadanas
 **Kelly Ester Martinez Cuadrado**|*Ingenieria Industrial*|Habilidades y Fortalezas:Gran capacidad de organización, escucha activa, trabajo en equipo y atención al detalle.
 **Angela Maria Calle Loaiza**|*Ingeniería Industrial*|Habilidades y Fortalezas: Pensamiento creativo, adaptabilidad al cambio, liderazgo cercano y facilidad para sintetizar información.
 **Leidy Camila Torres Henao**|*Ingenieria*|Habilidades y Fortalezas: Comunicación efectiva, proactividad, pensamiento crítico y coordinación de tareas.
-
-## 3 Detalles del proyecto
-**Nombre del proyecto** SOCIAP
-**Descripcion** Optimizar los tiempos de respuesta legales, garantizar la trazabilidad neta de los requerimientos de los usuarios y administrar de forma segura los datos de un hospital.
-**Adjuntar Imagen**
-
-## 4 Licencia del software 
-## 5 Reporte de visión 
-### Descripción general
-SOCIAP 
