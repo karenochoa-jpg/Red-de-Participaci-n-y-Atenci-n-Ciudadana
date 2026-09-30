@@ -86,7 +86,7 @@ El presupuesto de este proyecto no se liquida mediante transferencias monetarias
 | Fase / Actividad | Horas Invertidas | Valor Hora Práctica (SMLV) | Subtotal Equivalente |
 | :--- | :---: | :---: | :---: |
 | Levantamiento y Análisis de Requisitos | 30 h | $8.338 COP | $250.140 COP |
-| Diseño de Sistema e Interfaz (UI/UX) | 40 h | $8.338 COP | $333.520 COP |
+| Diseño de Sistema e Interfaz          | 40 h | $8.338 COP | $333.520 COP |
 | Desarrollo e Integración del Software | 90 h | $8.338 COP | $750.420 COP |
 | Pruebas (QA), Seguridad y Documentación | 40 h | $8.338 COP | $333.520 COP |
 | **TOTAL INVERSIÓN (Práctica Profesional)** | **200 h** | **Valor Práctica** | **$1.667.600 COP** |
