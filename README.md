@@ -19,9 +19,12 @@ Plataforma web para la gestión de solicitudes, peticiones y quejas ciudadanas
 **Leidy Camila Torres Henao** |*Ingenieria Industrial* |Habilidades y Fortalezas: Comunicación efectiva, proactividad, pensamiento crítico y coordinación de tareas.
 
 ## 3. Nombre del proyecto y detalles.
+
 **Nombre Oficial** SOCIAP (Sistema de Orientación Ciudadana y Atención a Personas)
-**Descripción:** El presente proyecto implementa una aplicación en consola desarrollada en Python orientada a automatizar, validar y procesar eficientemente las Peticiones, Quejas, Reclamos y Sugerencias (PQRS). Su propósito principal es optimizar los tiempos de respuesta legales, garantizar la trazabilidad total de los requerimientos de los usuarios y administrar de forma segura los datos de un hospital veterinario o red institucional.
-**Imagen del Proyecto** (Imagen proyecto)
+
+**Descripción:** El presente proyecto implementa una aplicación en consola desarrollada en Python orientada a automatizar, validar y procesar eficientemente las Peticiones, Quejas, Reclamos y Sugerencias (PQRS). Su propósito principal es optimizar los tiempos de respuesta legales, garantizar la trazabilidad total de los requerimientos de los usuarios y administrar de forma segura los datos de un hospital o red institucional.
+
+**Imagen del Proyecto**
 
 ## 4. Licencia  del software
 Este proyecto está dedicado al dominio público mediante la licencia **Creative Commons CC0 1.0 Universal (CC0 1.0) Dedicación de Dominio Público**
@@ -49,25 +52,25 @@ SOCIAP es un software enfocado en centralizar, canalizar y agilizar los trámite
 
 ### Requisitos funcionales
 
-**1. registro de Solicitudes**  Permitir a los ciudadanos registrar peticiones, quejas o reclamos adjuntando datos clave.
+**RF1. registro de Solicitudes**  Permitir a los ciudadanos registrar peticiones, quejas o reclamos adjuntando datos clave.
 
-**2. asignación de Casos**  Derivar automáticamente cada solicitud al área competente para su gestión. 
+**RF2. asignación de Casos**  Derivar automáticamente cada solicitud al área competente para su gestión. 
 
-**3. trazabilidad en Tiempo Real**  Permitir la consulta del estado de la solicitud mediante un número de radicado o código único. 
+**RF3. trazabilidad en Tiempo Real**  Permitir la consulta del estado de la solicitud mediante un número de radicado o código único. 
 
-**4. notificaciones**  Enviar alertas automáticas por correo electrónico sobre actualizaciones en el caso.
+**RF4. notificaciones**  Enviar alertas automáticas por correo electrónico sobre actualizaciones en el caso.
 
-**5. reportes de Gestión** Generar informes analíticos periódicos sobre el volumen de atención y tiempos de respuesta.
+**RF5. reportes de Gestión** Generar informes analíticos periódicos sobre el volumen de atención y tiempos de respuesta.
 
 ### Requisitos No Funcionales
 
-**1. seguridad** Encriptación de contraseñas y cumplimiento de normas sobre protección de datos personales. 
+**RNF1. seguridad** Encriptación de contraseñas y cumplimiento de normas sobre protección de datos personales. 
 
-**2. rendimiento** Consultas de estado y tiempos de carga de la interfaz en menos de 2 segundos. 
+**RNF2. rendimiento** Consultas de estado y tiempos de carga de la interfaz en menos de 2 segundos. 
 
-**3. usabilidad** Diseño intuitivo y accesible, adaptable a dispositivos móviles y escritorios.
+**RNF3. usabilidad** Diseño intuitivo y accesible, adaptable a dispositivos móviles y escritorios.
 
-**4. fiabilidad** Disponibilidad del sistema en un 99% durante el período operacional.
+**RNF4. fiabilidad** Disponibilidad del sistema en un 99% durante el período operacional.
 
 ## 7 Plan de proyecto 
 
