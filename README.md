@@ -1,5 +1,5 @@
 # SOCIAP-SISTEMA-DE-ORIENTACIÓN-CIUDADANA-Y-ATENCIÓN-A-PERSONAS
-Plataforma web para la gestión de solicitudes, peticiones y quejas ciudadanas
+Plataforma web para la gestión de solicitudes a peticiones, quejas, Reclamos y Sugerencias (PQRS) ciudadanas
 ## 1 Integrantes:
 **Karen Darian Ochoa Pertuz**- *Ingenieria Industrial*
 
