@@ -1,0 +1,18 @@
++----------------------------------------------------------------------------------------------------------------------+
+|                                          HUELLAACTIVA UDEA - GESTOR DE PQRS                                          |
+|                          UNIVERSIDAD DE ANTIOQUIA - COMPROBANTE OFICIAL DE RADICACIÓN PQRS                           |
++======================================================================================================================+
+| 1. DATOS DEL RADICADO                                                                                                |
+| ID Radicado: 00001 | Fecha/Hora: 2026-10-27 16:20:00 | Estado: En proceso | Fecha Máx. Respuesta: 2026-11-26 16:20:0 |
++----------------------------------------------------------------------------------------------------------------------+
+| 2. DATOS DEL SOLICITANTE                                                                                             |
+| Nombre Completo: Sofía Valentina Ospina Ríos | Documento: CC 1001234987                                              |
+| Teléfono: 3159876543 (Celular) | Correo: sofia.ospina@udea.edu.co                                                    |
+| Dirección: Carrera 45 # 50-22                                                                                        |
++----------------------------------------------------------------------------------------------------------------------+
+| 3. CLASIFICACIÓN Y RESUMEN DE LA SOLICITUD                                                                           |
+| Tipo: Queja | Canal: Redes sociales | Mascota: Perro                                                                 |
+| Campus Relacionado: Campus Medellín - Ciudad Universitaria                                                           |
+| Asunto: Demora en atención de reporte de perro herido                                                                |
+| Funcionario Registrador: leidy.torres                                                                                |
++----------------------------------------------------------------------------------------------------------------------+

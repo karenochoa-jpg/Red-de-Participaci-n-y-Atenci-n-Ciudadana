@@ -1,0 +1,5 @@
+admin_udea|admin@udea.edu.co|Udea2026*|Administrador|Administrador General UdeA
+kelly.martinez|kelly.martinezc@udea.edu.co|Kelly2026*|Operador|Kelly Ester Martínez Cuadrado
+angela.calle|angela.calle@udea.edu.co|Angela2026*|Operador|Angela Maria Calle Loaiza
+leidy.torres|leidy.torres@udea.edu.co|Leidy2026*|Operador|Leidy Camila Torres Henao
+karen.ochoa|karen.ochoa@udea.edu.co|Karen2026*|Operador|Karen Darian Ochoa Pertuz

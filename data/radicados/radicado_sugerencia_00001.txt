@@ -1,0 +1,18 @@
++----------------------------------------------------------------------------------------------------------------------+
+|                                          HUELLAACTIVA UDEA - GESTOR DE PQRS                                          |
+|                          UNIVERSIDAD DE ANTIOQUIA - COMPROBANTE OFICIAL DE RADICACIÓN PQRS                           |
++======================================================================================================================+
+| 1. DATOS DEL RADICADO                                                                                                |
+| ID Radicado: 00001 | Fecha/Hora: 2026-11-10 15:10:00 | Estado: Registrada | Fecha Máx. Respuesta: 2026-12-10 15:10:0 |
++----------------------------------------------------------------------------------------------------------------------+
+| 2. DATOS DEL SOLICITANTE                                                                                             |
+| Nombre Completo: Valeria Lucía Giraldo Henao | Documento: CC 1040789123                                              |
+| Teléfono: 3206549871 (Celular) | Correo: valeria.giraldo@udea.edu.co                                                 |
+| Dirección: Avenida Oriental # 48-30                                                                                  |
++----------------------------------------------------------------------------------------------------------------------+
+| 3. CLASIFICACIÓN Y RESUMEN DE LA SOLICITUD                                                                           |
+| Tipo: Sugerencia | Canal: Teléfono | Mascota: Otro                                                                   |
+| Campus Relacionado: Campus Medellín - Edificio de Extensión                                                          |
+| Asunto: Instalación de puntos de hidratación para mascotas                                                           |
+| Funcionario Registrador: kelly.martinez                                                                              |
++----------------------------------------------------------------------------------------------------------------------+

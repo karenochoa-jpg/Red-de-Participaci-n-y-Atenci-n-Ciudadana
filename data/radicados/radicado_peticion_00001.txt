@@ -1,0 +1,18 @@
++----------------------------------------------------------------------------------------------------------------------+
+|                                          HUELLAACTIVA UDEA - GESTOR DE PQRS                                          |
+|                          UNIVERSIDAD DE ANTIOQUIA - COMPROBANTE OFICIAL DE RADICACIÓN PQRS                           |
++======================================================================================================================+
+| 1. DATOS DEL RADICADO                                                                                                |
+| ID Radicado: 00001 | Fecha/Hora: 2026-10-15 09:30:00 | Estado: Solucionada | Fecha Máx. Respuesta: 2026-11-14 09:30: |
++----------------------------------------------------------------------------------------------------------------------+
+| 2. DATOS DEL SOLICITANTE                                                                                             |
+| Nombre Completo: Camila Andrea Restrepo Gómez | Documento: CC 1037654321                                             |
+| Teléfono: 3004567890 (Celular) | Correo: camila.restrepo@udea.edu.co                                                 |
+| Dirección: Calle 67 # 53-108                                                                                         |
++----------------------------------------------------------------------------------------------------------------------+
+| 3. CLASIFICACIÓN Y RESUMEN DE LA SOLICITUD                                                                           |
+| Tipo: Petición | Canal: Página web | Mascota: Gato                                                                   |
+| Campus Relacionado: Campus Medellín - Ciudad Universitaria                                                           |
+| Asunto: Solicitud de jornada de esterilización felina                                                                |
+| Funcionario Registrador: kelly.martinez                                                                              |
++----------------------------------------------------------------------------------------------------------------------+

@@ -1,0 +1,18 @@
++----------------------------------------------------------------------------------------------------------------------+
+|                                          HUELLAACTIVA UDEA - GESTOR DE PQRS                                          |
+|                          UNIVERSIDAD DE ANTIOQUIA - COMPROBANTE OFICIAL DE RADICACIÓN PQRS                           |
++======================================================================================================================+
+| 1. DATOS DEL RADICADO                                                                                                |
+| ID Radicado: 00001 | Fecha/Hora: 2026-10-05 08:45:00 | Estado: Solucionada | Fecha Máx. Respuesta: 2026-11-04 08:45: |
++----------------------------------------------------------------------------------------------------------------------+
+| 2. DATOS DEL SOLICITANTE                                                                                             |
+| Nombre Completo: Mateo Alejandro Salazar Cardona | Documento: CE 45896321                                            |
+| Teléfono: 6042198332 (Fijo) | Correo: mateo.salazar@correo.com                                                       |
+| Dirección: Calle 52 # 43-15                                                                                          |
++----------------------------------------------------------------------------------------------------------------------+
+| 3. CLASIFICACIÓN Y RESUMEN DE LA SOLICITUD                                                                           |
+| Tipo: Reclamo | Canal: Presencial | Mascota: Gato                                                                    |
+| Campus Relacionado: Campus en el Área de la salud                                                                    |
+| Asunto: Falta de seguimiento tras desparasitación de gato                                                            |
+| Funcionario Registrador: karen.ochoa                                                                                 |
++----------------------------------------------------------------------------------------------------------------------+
