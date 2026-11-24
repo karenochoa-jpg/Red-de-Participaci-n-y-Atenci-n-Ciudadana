@@ -1,6 +1,6 @@
 # Sistema de Gestión de PQRS — HuellaActiva UdeA
 
-!\[Logo del Proyecto HuellaActiva UdeA](images/logo\_proyecto.png)
+![logo del proyecto HuellaActiva UdeA](images/logo_proyecto.png)
 
 ## 1\. Integrantes
 
